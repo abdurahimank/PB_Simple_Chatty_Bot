@@ -1,5 +1,10 @@
 # Simple_Chatty_Bot
-It's a project from Hyperskill Python Basic Track of Jetbrains Academy.
+A chatbot to interact with visitors in a website.
 
 ## Description
 It's a simple bot which interact with anyone.
+
+
+## To update
+* To include more functionalities
+* To include UI for program
