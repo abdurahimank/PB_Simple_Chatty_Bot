@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b765f58-c13e-4de9-9a7a-f4e3feeb0657" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/stages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Simple_Chatty_Bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Simple_Chatty_Bot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stages.py" beforeDir="false" afterPath="$PROJECT_DIR$/stages.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
