@@ -1,4 +1,4 @@
-# Stage 3/5: Guess the age
+# Stage 4/5: Learning numbers
 print('Hello! My name is Aid.')
 print('I was created in 2020.')
 print('Please, remind me your name.')
@@ -9,10 +9,18 @@ print('What a great name you have, ' + name + '!')
 print('Let me guess your age.')
 print('Enter remainders of dividing your age by 3, 5 and 7.')
 
-# reading all remainders
-rem_3 = int(input())
-rem_5 = int(input())
-rem_7 = int(input())
-your_age = (rem_3 * 70 + rem_5 * 21 + rem_7 * 15) % 105
+rem3 = int(input())
+rem5 = int(input())
+rem7 = int(input())
 
-print(f"Your age is {your_age}; that's a good time to start programming!")
+age = (rem3 * 70 + rem5 * 21 + rem7 * 15) % 105
+
+print("Your age is " + str(age) + "; that's a good time to start programming!")
+print('Now I will prove to you that I can count to any number you want.')
+
+# read a number and count to it here
+number = int(input())
+for i in range(number + 1):
+    print(f"{i} !")
+
+print('Completed, have a nice day!')
