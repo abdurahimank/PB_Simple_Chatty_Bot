@@ -1,3 +1,4 @@
+# Project: Simple Chatty Bot (Python)
 # Stage 5/5: Multiple choice
 def greet(bot_name, birth_year):
     print('Hello! My name is ' + bot_name + '.')
@@ -34,6 +35,7 @@ def count():
 
 def test():
     print("Let's test your programming knowledge.")
+    # write your code here
     print("""Why do we use methods?
 1. To repeat a statement multiple times.
 2. To decompose a program into several small subroutines.
